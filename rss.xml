@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Subs and Stuff Boston]]></title>
+        <description><![CDATA[Subs and Stuff Boston]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 21:26:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[http://www.subsandstuffboston.com/2016/07/feelin-freaky-at-giannis-framingham-ma.html]]></title>
+            <description><![CDATA[<article><h1>http://www.subsandstuffboston.com/2016/07/feelin-freaky-at-giannis-framingham-ma.html</h1><p>Gianni's Italian Sub</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e4faf613c60453e37450a8e0ccfc6a6/croprotate.jpg?cropheight=1693&cropwidth=2964&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdf58d8e7-739c-41d2-9380-89cc205c9e7a.jpg&x=0&y=0"></article>]]></description>
+            <link>undefinedhttpwwwsubsandstuffbostoncom201607feelin-freaky-at-g/index.html</link>
+            <guid isPermaLink="false">cd49b1d7-39e2-497b-81ec-47a14d9493c3</guid>
+            <pubDate>Fri, 08 Jul 2016 21:26:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
